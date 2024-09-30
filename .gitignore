@@ -1,0 +1,6 @@
+#Ignorer les fichier de log
+config/
+node_modules/
+vueapp/
+dist4/
+AppSauvegarde.vue
